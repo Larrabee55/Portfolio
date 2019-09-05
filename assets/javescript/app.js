@@ -7,3 +7,5 @@ $(function () {
 $(document).ready(function () {
   $('.scrollspy').scrollSpy();
 });
+
+$('body').scrollspy({ target: '#navbar-example2' });

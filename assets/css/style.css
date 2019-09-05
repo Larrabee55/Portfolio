@@ -8,6 +8,7 @@ h6 {
 
 body {
   background-image: url(../Images/background.jpg);
+  position: relative;
 }
 
 p {
